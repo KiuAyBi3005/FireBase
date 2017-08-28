@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context="com.example.quang.firebasetraning.ui.activity.MainActivity">
+<TextView
+
+    android:textSize="32sp"
+    android:text="Quan Ly Sinh Vien"
+    android:gravity="center"
+    android:background="#157e1b"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+    <Button
+        android:text="Them"
+        android:id="@+id/button_them"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:text="Xem"
+        android:id="@+id/button_xem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:text="Quan Ly"
+        android:id="@+id/button_quanly"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

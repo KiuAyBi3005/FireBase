@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "12801331930",
+    "firebase_url": "https://fir-traning-49d0d.firebaseio.com",
+    "project_id": "fir-traning-49d0d",
+    "storage_bucket": "fir-traning-49d0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12801331930:android:eaad0923ba3d515a",
+        "android_client_info": {
+          "package_name": "com.example.quang.firebasetraning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12801331930-t7ur255fk5pcf0htj976tdcij902ckt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk5ze0W1371odupCkNsPvYydBIguO9lfg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
